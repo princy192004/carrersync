@@ -1,4 +1,4 @@
-1. carrersync
+1. OVERVIEW OF THEME 
 2.CareerSync is an AI-driven platform designed to bridge the gap between academic learning and industry needs by aligning student skills with real-world projects from industry partners. The platform leverages artificial intelligence to match students with industry-relevant projects and recommend personalized learning paths, based on their skillsets and academic profiles. Additionally, CareerSync connects students with experienced mentors who guide them through the completion of these projects, providing valuable insights and practical knowledge. The AI chatbot further enhances the student experience by suggesting educational videos tailored to their interests.
 
 3. Solution:
