@@ -1,0 +1,9 @@
+@use "../utils" as *;
+@use "../global" as *;
+
+.main {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(240 240 240);
+  overflow: hidden;
+}

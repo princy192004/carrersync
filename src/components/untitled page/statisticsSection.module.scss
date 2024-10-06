@@ -1,0 +1,150 @@
+@use "../utils" as *;
+@use "../global" as *;
+
+.statisticsSection {
+  position: relative;
+  width: 1930px;
+  height: 564px;
+  min-height: 564px;
+}
+
+.color2 {
+  position: absolute;
+  inset: 559px 888px 0 887px;
+  width: 155px;
+  height: 5px;
+  background-color: rgb(0 115 230);
+  border-radius: 3px;
+}
+
+.hero_title6 {
+  font: 400 50px/1.03 Actor, Helvetica, Arial, serif;
+  color: rgb(0 0 0);
+  text-align: center;
+  text-transform: capitalize;
+  letter-spacing: -0.75px;
+}
+
+.hero_title6_box {
+  position: absolute;
+  inset: 59px 826px 453px 827px;
+  display: flex;
+  justify-content: center;
+  width: 277px;
+  height: 52px;
+}
+
+.hero_title6_span0 {
+  font: 1em/1.03 Actor, Helvetica, Arial, serif;
+  color: rgb(4 37 76);
+}
+
+.hero_title6_span1 {
+  font: 1em/1.03 Actor, Helvetica, Arial, serif;
+  color: rgb(0 115 230);
+}
+
+.cover9 {
+  position: absolute;
+  inset: 188px 1299px 76px 329px;
+  width: 302px;
+  height: 300px;
+}
+
+.hero_title7 {
+  position: absolute;
+  inset: 300.5px 1371.5px 213.5px 406.5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 152px;
+  height: 50px;
+  font: 400 48px/1.03 Actor, Helvetica, Arial, serif;
+  color: rgb(0 115 230);
+  text-align: center;
+  text-transform: capitalize;
+  letter-spacing: -0.96px;
+}
+
+.subtitle4 {
+  position: absolute;
+  inset: 352px 1387px 185px 423px;
+  width: 120px;
+  height: 27px;
+  font: 400 20px/1.31 Actor, Helvetica, Arial, serif;
+  color: rgb(5 37 77);
+  text-transform: capitalize;
+  letter-spacing: -0.2px;
+}
+
+.image45 {
+  position: absolute;
+  inset: 188px 822px 76px 808px;
+  width: 300px;
+  height: 300px;
+}
+
+.hero_title8 {
+  position: absolute;
+  inset: 300.5px 913.5px 213.5px 900.5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 116px;
+  height: 50px;
+  font: 400 48px/1.03 Actor, Helvetica, Arial, serif;
+  color: rgb(255 122 0);
+  text-align: center;
+  text-transform: capitalize;
+  letter-spacing: -0.96px;
+}
+
+.subtitle41 {
+  position: absolute;
+  inset: 352px 913.5px 185px 900.5px;
+  display: flex;
+  justify-content: center;
+  width: 116px;
+  height: 27px;
+  font: 400 20px/1.31 Actor, Helvetica, Arial, serif;
+  color: rgb(5 37 77);
+  text-align: center;
+  text-transform: capitalize;
+  letter-spacing: -0.2px;
+}
+
+.image451 {
+  position: absolute;
+  inset: 188px 327px 76px 1303px;
+  width: 300px;
+  height: 300px;
+}
+
+.hero_title9 {
+  position: absolute;
+  inset: 300px 431.5px 214px 1397.5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 101px;
+  height: 50px;
+  font: 400 48px/1.03 Actor, Helvetica, Arial, serif;
+  color: rgb(253 185 2);
+  text-align: center;
+  text-transform: capitalize;
+  letter-spacing: -0.96px;
+}
+
+.subtitle42 {
+  position: absolute;
+  inset: 351px 423.5px 186px 1389.5px;
+  display: flex;
+  justify-content: center;
+  width: 117px;
+  height: 27px;
+  font: 400 20px/1.31 Actor, Helvetica, Arial, serif;
+  color: rgb(5 37 77);
+  text-align: center;
+  text-transform: capitalize;
+  letter-spacing: -0.2px;
+}

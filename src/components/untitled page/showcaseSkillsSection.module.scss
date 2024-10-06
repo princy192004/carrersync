@@ -1,0 +1,168 @@
+@use "../utils" as *;
+@use "../global" as *;
+
+.showcaseSkillsSection {
+  position: relative;
+  width: 1930px;
+  height: 1313px;
+  min-height: 1313px;
+}
+
+.color2 {
+  position: absolute;
+  inset: 1308px 527px 0 1248px;
+  width: 155px;
+  height: 5px;
+  background-color: rgb(0 115 230);
+  border-radius: 3px;
+}
+
+.line {
+  position: absolute;
+  inset: 0 222px 1311px 211px;
+  width: 1497px;
+  height: 2px;
+  background-color: rgb(69 90 100);
+}
+
+.line1 {
+  position: absolute;
+  inset: 156px 222px 1155px 211px;
+  width: 1497px;
+  height: 2px;
+  background-color: rgb(69 90 100);
+}
+
+.image20 {
+  position: absolute;
+  inset: 51px 1498px 1204px 255px;
+  width: 177px;
+  height: 58px;
+}
+
+.image21 {
+  position: absolute;
+  inset: 63px 435px 1216px 1383px;
+  width: 112px;
+}
+
+.image22 {
+  position: absolute;
+  inset: 32px 1276px 1185px 484px;
+  width: 170px;
+  height: 96px;
+}
+
+.image23 {
+  position: absolute;
+  inset: 43px 814px 1196px 938px;
+  width: 178px;
+  height: 74px;
+}
+
+.image24 {
+  position: absolute;
+  inset: 21px 1075px 1174px 738px;
+  width: 117px;
+}
+
+.image25 {
+  position: absolute;
+  inset: 60px 598px 1213px 1167px;
+  width: 165px;
+  height: 40px;
+}
+
+.image26 {
+  position: absolute;
+  inset: 25px 265px 1178px 1547px;
+  width: 118px;
+}
+
+.image48 {
+  position: absolute;
+  inset: 261px 656px 627px 935px;
+  width: 339px;
+  height: 425px;
+  border-radius: 40px;
+  outline: 1px solid rgb(5 37 77);
+  outline-offset: -1px;
+  filter: drop-shadow(0 10px 70px rgb(107 177 251 / 50%));
+}
+
+.image49 {
+  position: absolute;
+  inset: 269px 238px 619px 1353px;
+  width: 339px;
+  height: 425px;
+  border-radius: 40px;
+  outline: 1px solid rgb(196 28 212);
+  outline-offset: -1px;
+  filter: drop-shadow(0 10px 70px rgb(207 129 214 / 100%));
+}
+
+.image50 {
+  position: absolute;
+  inset: 746px 238px 142px 1353px;
+  width: 339px;
+  height: 425px;
+  border-radius: 40px;
+  outline: 1px solid rgb(5 37 77);
+  outline-offset: -1px;
+  filter: drop-shadow(0 10px 70px rgb(145 255 127 / 50%));
+}
+
+.image51 {
+  position: absolute;
+  inset: 796px 657px 92px 935px;
+  width: 338px;
+  height: 425px;
+  border-radius: 40px;
+  outline: 1px solid rgb(5 37 77);
+  outline-offset: -1px;
+  filter: drop-shadow(0 10px 70px rgb(107 177 251 / 50%));
+}
+
+.subtitle {
+  position: absolute;
+  inset: 706px 1082px 546px 264px;
+  width: 584px;
+  height: 61px;
+  font: 400 20px/1.5 Actor, Helvetica, Arial, serif;
+  color: rgb(59 64 69);
+  text-transform: capitalize;
+  letter-spacing: -0.2px;
+}
+
+.hero_title10 {
+  position: absolute;
+  inset: 635px 1324px 626px 264px;
+  width: 342px;
+  height: 52px;
+  font: 400 50px/1.03 Actor, Helvetica, Arial, serif;
+  color: rgb(5 37 77);
+  text-transform: capitalize;
+  letter-spacing: -0.75px;
+}
+
+.color25 {
+  position: absolute;
+  inset: 803px 1298px 457px 259px;
+  width: 373px;
+  height: 53px;
+  background-color: rgb(0 115 230);
+  border-radius: 10.24px;
+}
+
+.highlight {
+  position: absolute;
+  inset: 819px 1435.5px 472px 397.5px;
+  display: flex;
+  justify-content: center;
+  width: 97px;
+  height: 22px;
+  font: 400 18.2px/1.2 Actor, Helvetica, Arial, serif;
+  color: rgb(255 255 255);
+  text-align: center;
+  letter-spacing: -0.64px;
+}

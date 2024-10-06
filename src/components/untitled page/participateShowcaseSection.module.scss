@@ -1,0 +1,102 @@
+@use "../utils" as *;
+@use "../global" as *;
+
+.participateShowcaseSection {
+  position: relative;
+  width: 1930px;
+  height: 852px;
+  min-height: 852px;
+}
+
+.subtitle {
+  position: absolute;
+  inset: 138px 558px 653px 621px;
+  display: flex;
+  justify-content: center;
+  width: 751px;
+  height: 61px;
+  font: 400 20px/1.5 Actor, Helvetica, Arial, serif;
+  color: rgb(59 64 69);
+  text-align: center;
+  text-transform: capitalize;
+  letter-spacing: -0.2px;
+}
+
+.hero_title6 {
+  font: 400 50px/1.03 Actor, Helvetica, Arial, serif;
+  color: rgb(0 0 0);
+  text-align: center;
+  text-transform: capitalize;
+  letter-spacing: -0.75px;
+}
+
+.hero_title6_box {
+  position: absolute;
+  inset: 67px 705px 733px 770px;
+  display: flex;
+  justify-content: center;
+  width: 455px;
+  height: 52px;
+}
+
+.hero_title6_span0 {
+  font: 1em/1.03 Actor, Helvetica, Arial, serif;
+  color: rgb(4 37 76);
+}
+
+.hero_title6_span1 {
+  font: 1em/1.03 Actor, Helvetica, Arial, serif;
+  color: rgb(0 115 230);
+}
+
+.image52 {
+  position: absolute;
+  inset: 254px 1227px 158px 233px;
+  width: 470px;
+  height: 440px;
+  border-radius: 40px;
+}
+
+.image521 {
+  position: absolute;
+  inset: 214px 695px 198px 765px;
+  width: 470px;
+  height: 440px;
+  border-radius: 40px;
+}
+
+.image522 {
+  position: absolute;
+  inset: 199px 179px 214px 1281px;
+  width: 470px;
+  height: 439px;
+  border-radius: 40px;
+}
+
+.title1 {
+  position: absolute;
+  inset: 576px 868px 248px 976px;
+  display: flex;
+  justify-content: flex-end;
+  width: 86px;
+  height: 28px;
+  font: 400 28.16px/0.98 Actor, Helvetica, Arial, serif;
+  color: rgb(255 255 255);
+  text-align: right;
+  text-transform: capitalize;
+  letter-spacing: -0.7px;
+}
+
+.hero_title11 {
+  position: absolute;
+  inset: 474px 791px 289px 891px;
+  display: flex;
+  justify-content: center;
+  width: 248px;
+  height: 89px;
+  font: 400 48.19px/0.91 Actor, Helvetica, Arial, serif;
+  color: rgb(253 152 1);
+  text-align: center;
+  text-transform: capitalize;
+  letter-spacing: -1.69px;
+}

@@ -1,0 +1,136 @@
+@use "../utils" as *;
+@use "../global" as *;
+
+.updateSection {
+  position: relative;
+  width: 1930px;
+  height: 404px;
+  min-height: 404px;
+}
+
+.color18 {
+  position: absolute;
+  inset: 69px 10px 0 0;
+  width: 1920px;
+  height: 335px;
+  background-color: rgb(5 37 77);
+}
+
+.hero_title6 {
+  font: 400 50px/1.03 Actor, Helvetica, Arial, serif;
+  color: rgb(0 0 0);
+  text-align: center;
+  text-transform: capitalize;
+  letter-spacing: -0.75px;
+}
+
+.hero_title6_box {
+  position: absolute;
+  inset: 161px 1377.5px 191px 271.5px;
+  display: flex;
+  justify-content: center;
+  width: 281px;
+  height: 52px;
+}
+
+.hero_title6_span0 {
+  font: 1em/1.03 Actor, Helvetica, Arial, serif;
+  color: rgb(255 255 255);
+}
+
+.hero_title6_span1 {
+  font: 1em/1.03 Actor, Helvetica, Arial, serif;
+  color: rgb(0 115 230);
+}
+
+.subtitle3 {
+  position: absolute;
+  inset: 232px 1075px 111px 255px;
+  width: 600px;
+  height: 61px;
+  font: 400 20px/1.5 Actor, Helvetica, Arial, serif;
+  color: rgb(205 218 234);
+  text-transform: capitalize;
+  letter-spacing: -0.2px;
+}
+
+.color20 {
+  position: absolute;
+  inset: 157px 265px 169px 885px;
+  width: 780px;
+  height: 78px;
+  background-color: rgb(107 177 249);
+  border-radius: 16px;
+  opacity: 0.3;
+}
+
+.color21 {
+  position: absolute;
+  inset: 164px 273px 175px 1582px;
+  width: 75px;
+  height: 65px;
+  background-color: rgb(12 140 233);
+  border-radius: 8px;
+}
+
+.image38 {
+  position: absolute;
+  inset: 161px 273px 182px 1594px;
+  width: 63px;
+}
+
+.color22 {
+  position: absolute;
+  inset: 262px 265px 93px 1292px;
+  width: 373px;
+  height: 49px;
+  background-color: rgb(0 115 230);
+  border-radius: 10.24px;
+}
+
+.highlight {
+  position: absolute;
+  inset: 275px 379.5px 107px 1407.5px;
+  display: flex;
+  justify-content: center;
+  width: 143px;
+  height: 22px;
+  font: 400 18.2px/1.2 Actor, Helvetica, Arial, serif;
+  color: rgb(255 255 255);
+  text-align: center;
+  letter-spacing: -0.64px;
+}
+
+.color23 {
+  position: absolute;
+  inset: 262px 672px 93px 885px;
+  width: 373px;
+  height: 49px;
+  background-color: rgb(255 255 255);
+  border-radius: 10.24px;
+}
+
+.highlight4 {
+  position: absolute;
+  inset: 275px 781.5px 107px 995.5px;
+  display: flex;
+  justify-content: center;
+  width: 153px;
+  height: 22px;
+  font: 400 18.2px/1.2 Actor, Helvetica, Arial, serif;
+  color: rgb(5 37 76);
+  text-align: center;
+  letter-spacing: -0.64px;
+}
+
+.medium_title5 {
+  position: absolute;
+  inset: 180px 754px 191px 916px;
+  width: 260px;
+  height: 33px;
+  font: 400 25px/1.31 Actor, Helvetica, Arial, serif;
+  color: rgb(255 255 255);
+  text-transform: capitalize;
+  letter-spacing: -0.25px;
+  opacity: 0.4;
+}

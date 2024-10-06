@@ -1,0 +1,235 @@
+@use "../utils" as *;
+@use "../global" as *;
+
+.jobOpportunitiesSection {
+  position: relative;
+  width: 1930px;
+  height: 590px;
+  min-height: 590px;
+}
+
+.color8 {
+  position: absolute;
+  inset: 70px 10px 38px 0;
+  width: 1920px;
+  height: 482px;
+  background-color: rgb(107 177 249);
+  opacity: 0.2;
+}
+
+.decorator5 {
+  position: absolute;
+  inset: 0 0 88px 1209px;
+  width: 721px;
+  height: 502px;
+}
+
+.subtitle1 {
+  position: absolute;
+  inset: 304px 1164px 225px 258px;
+  width: 508px;
+  height: 61px;
+  font: 400 20px/1.5 Actor, Helvetica, Arial, serif;
+  color: rgb(131 143 158);
+  text-transform: capitalize;
+  letter-spacing: -0.2px;
+}
+
+.hero_title6 {
+  font: 400 50px/1.03 Actor, Helvetica, Arial, serif;
+  color: rgb(0 0 0);
+  text-align: center;
+  text-transform: capitalize;
+  letter-spacing: -0.75px;
+}
+
+.hero_title6_box {
+  position: absolute;
+  inset: 227px 1453.5px 311px 267.5px;
+  display: flex;
+  justify-content: center;
+  width: 209px;
+  height: 52px;
+}
+
+.hero_title6_span0 {
+  font: 1em/1.03 Actor, Helvetica, Arial, serif;
+  color: rgb(4 37 76);
+}
+
+.hero_title6_span1 {
+  font: 1em/1.03 Actor, Helvetica, Arial, serif;
+  color: rgb(0 115 230);
+}
+
+.color9 {
+  position: absolute;
+  inset: 116px 721px 293px 885px;
+  width: 324px;
+  height: 181px;
+  background-color: rgb(255 180 169);
+  border-radius: 17.05px;
+  outline: 0.42630475759506226px solid rgb(195 52 31);
+  outline-offset: -0.42630475759506226px;
+  box-shadow: 0 5px 30px 0 rgb(250 123 106 / 50%);
+}
+
+.image27 {
+  position: absolute;
+  inset: 134px 725px 297px 1008px;
+  width: 197px;
+  height: 159px;
+  border-radius: 0 0 17.05px;
+}
+
+.medium_title1 {
+  position: absolute;
+  inset: 190px 937px 351px 900px;
+  width: 93px;
+  height: 49px;
+  font: 400 26.43px/0.91 Actor, Helvetica, Arial, serif;
+  color: rgb(180 48 29);
+  text-transform: capitalize;
+  letter-spacing: -0.93px;
+}
+
+.text {
+  position: absolute;
+  inset: 175px 982px 403px 900px;
+  width: 48px;
+  height: 12px;
+  font: 400 14.25px/0.81 Actor, Helvetica, Arial, serif;
+  color: rgb(180 48 29);
+  text-transform: capitalize;
+  letter-spacing: -0.5px;
+  opacity: 0.5;
+}
+
+.color10 {
+  position: absolute;
+  inset: 313px 610px 95px 992px;
+  width: 328px;
+  height: 182px;
+  background-color: rgb(253 213 98);
+  border-radius: 17.05px;
+  outline: 0.42630475759506226px solid rgb(152 119 23);
+  outline-offset: -0.42630475759506226px;
+  box-shadow: 0 5px 30px 0 rgb(255 220 127 / 50%);
+}
+
+.image28 {
+  position: absolute;
+  inset: 332px 614px 100px 1105px;
+  width: 211px;
+  height: 158px;
+  border-radius: 0 0 17.05px;
+}
+
+.medium_title2 {
+  position: absolute;
+  inset: 389px 786px 152px 1008px;
+  width: 136px;
+  height: 49px;
+  font: 400 26.43px/0.91 Actor, Helvetica, Arial, serif;
+  color: rgb(253 152 1);
+  text-transform: capitalize;
+  letter-spacing: -0.93px;
+}
+
+.highlight1 {
+  position: absolute;
+  inset: 371px 862px 204px 1008px;
+  width: 60px;
+  height: 15px;
+  font: 400 17.67px/0.81 Actor, Helvetica, Arial, serif;
+  color: rgb(253 152 1);
+  text-transform: capitalize;
+  letter-spacing: -0.62px;
+  opacity: 0.5;
+}
+
+.color11 {
+  position: absolute;
+  inset: 116px 373px 293px 1230px;
+  width: 327px;
+  height: 181px;
+  background-color: rgb(107 177 249);
+  border-radius: 17.05px;
+  outline: 0.42630475759506226px solid rgb(5 37 77);
+  outline-offset: -0.42630475759506226px;
+  box-shadow: 0 5px 30px 0 rgb(28 73 128 / 50%);
+}
+
+.image29 {
+  position: absolute;
+  inset: 134px 377px 297px 1345px;
+  width: 208px;
+  height: 159px;
+  border-radius: 0 0 17.05px;
+}
+
+.medium_title3 {
+  position: absolute;
+  inset: 190px 555px 351px 1245px;
+  width: 130px;
+  height: 49px;
+  font: 400 26.43px/0.91 Actor, Helvetica, Arial, serif;
+  color: rgb(5 37 77);
+  text-transform: capitalize;
+  letter-spacing: -0.93px;
+}
+
+.text1 {
+  position: absolute;
+  inset: 175px 637px 403px 1245px;
+  width: 48px;
+  height: 12px;
+  font: 400 14.25px/0.81 Actor, Helvetica, Arial, serif;
+  color: rgb(5 37 77);
+  text-transform: capitalize;
+  letter-spacing: -0.5px;
+  opacity: 0.5;
+}
+
+.color12 {
+  position: absolute;
+  inset: 313px 265px 95px 1337px;
+  width: 328px;
+  height: 182px;
+  background-color: rgb(255 180 169);
+  border-radius: 17.05px;
+  outline: 0.42630475759506226px solid rgb(195 52 31);
+  outline-offset: -0.42630475759506226px;
+  box-shadow: 0 5px 30px 0 rgb(250 123 106 / 50%);
+}
+
+.image281 {
+  position: absolute;
+  inset: 332px 269px 100px 1450px;
+  width: 211px;
+  height: 158px;
+  border-radius: 0 0 17.05px;
+}
+
+.medium_title11 {
+  position: absolute;
+  inset: 387px 448px 154px 1352px;
+  width: 130px;
+  height: 49px;
+  font: 400 26.43px/0.91 Actor, Helvetica, Arial, serif;
+  color: rgb(180 48 29);
+  text-transform: capitalize;
+  letter-spacing: -0.93px;
+}
+
+.text2 {
+  position: absolute;
+  inset: 372px 530px 206px 1352px;
+  width: 48px;
+  height: 12px;
+  font: 400 14.25px/0.81 Actor, Helvetica, Arial, serif;
+  color: rgb(180 48 29);
+  text-transform: capitalize;
+  letter-spacing: -0.5px;
+  opacity: 0.5;
+}

@@ -1,0 +1,385 @@
+@use "../utils" as *;
+@use "../global" as *;
+
+.contactInformationSection {
+  position: relative;
+  margin: 0 0 11px;
+  width: 1930px;
+  height: 774px;
+  min-height: 774px;
+}
+
+.cover7 {
+  position: absolute;
+  inset: 68px 370px 72px 583px;
+  width: 977px;
+  height: 634px;
+}
+
+.highlight3 {
+  position: absolute;
+  inset: 154px 1425px 572px 265px;
+  width: 240px;
+  height: 48px;
+  font: 400 18px/1.31 Actor, Helvetica, Arial, serif;
+  color: rgb(5 37 77);
+  text-transform: capitalize;
+  letter-spacing: -0.18px;
+}
+
+.image35 {
+  position: absolute;
+  inset: 157px 1566px 601px 346px;
+  width: 18px;
+}
+
+.medium_title4 {
+  position: absolute;
+  inset: 230px 1504px 519px 265px;
+  display: flex;
+  align-items: center;
+  width: 161px;
+  height: 25px;
+  font: 400 25px/1 Actor, Helvetica, Arial, serif;
+  color: rgb(5 37 77);
+  text-transform: capitalize;
+  letter-spacing: -0.5px;
+}
+
+.subtitle2 {
+  font: 400 23.02px/1.54 Actor, Helvetica, Arial, serif;
+  color: rgb(0 0 0);
+  text-transform: capitalize;
+  letter-spacing: -0.23px;
+}
+
+.subtitle2_box {
+  position: absolute;
+  inset: 276px 1397px 389px 304px;
+  width: 229px;
+  height: 109px;
+}
+
+.subtitle2_span0 {
+  font: 0.999863390089842em/1.54 Actor, Helvetica, Arial, serif;
+  color: rgb(4 37 76);
+}
+
+.subtitle2_span1 {
+  font: 0.6950477845351868em/2.21 Actor, Helvetica, Arial, serif;
+  color: rgb(185 185 185);
+  letter-spacing: -0.16px;
+}
+
+.image36 {
+  position: absolute;
+  inset: 285px 1636px 464px 266px;
+  width: 28px;
+}
+
+.image37 {
+  position: absolute;
+  inset: 318px 1636px 433px 267px;
+  width: 27px;
+}
+
+.color19 {
+  position: absolute;
+  inset: 717px 10px 0 0;
+  width: 1920px;
+  height: 57px;
+  background-color: rgb(5 37 77);
+}
+
+.image39 {
+  position: absolute;
+  inset: 654px 1195px 119px 734px;
+  width: 1px;
+}
+
+.medium_title6 {
+  position: absolute;
+  inset: 79px 1356.5px 670px 297.5px;
+  display: flex;
+  justify-content: center;
+  width: 276px;
+  height: 25px;
+  font: 400 24px/1.03 "Abyssinica SIL", Helvetica, Arial, serif;
+  color: rgb(0 0 0);
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 12.48px;
+}
+
+.image61 {
+  position: absolute;
+  inset: 52px 1636px 665px 236px;
+  width: 58px;
+}
+
+.title3 {
+  position: absolute;
+  inset: 84px 1138px 657px 609px;
+  display: flex;
+  align-items: center;
+  width: 183px;
+  height: 33px;
+  font: 400 32.84px/0.99 Actor, Helvetica, Arial, serif;
+  color: rgb(5 37 77);
+  text-transform: capitalize;
+  letter-spacing: -0.66px;
+}
+
+.image62 {
+  position: absolute;
+  inset: 214px 1308px 484px 609px;
+  width: 13px;
+}
+
+.highlight5 {
+  position: absolute;
+  inset: 138px 1242px 475px 637px;
+  width: 51px;
+  height: 161px;
+  font: 400 15.01px/2.13 Actor, Helvetica, Arial, serif;
+  color: rgb(5 37 77);
+  text-transform: capitalize;
+}
+
+.image63 {
+  position: absolute;
+  inset: 150px 1307px 610px 609px;
+  width: 14px;
+}
+
+.image64 {
+  position: absolute;
+  inset: 244px 1308px 517px 609px;
+  width: 13px;
+}
+
+.image641 {
+  position: absolute;
+  inset: 184px 1308px 577px 609px;
+  width: 13px;
+}
+
+.title31 {
+  position: absolute;
+  inset: 374.5px 1154px 366.5px 609px;
+  display: flex;
+  align-items: center;
+  width: 167px;
+  height: 33px;
+  font: 400 32.84px/0.99 Actor, Helvetica, Arial, serif;
+  color: rgb(5 37 77);
+  text-transform: capitalize;
+  letter-spacing: -0.66px;
+}
+
+.image642 {
+  position: absolute;
+  inset: 511px 1305px 250px 612px;
+  width: 13px;
+}
+
+.highlight51 {
+  position: absolute;
+  inset: 428px 1173px 249px 637px;
+  width: 120px;
+  height: 97px;
+  font: 400 15.01px/2.13 Actor, Helvetica, Arial, serif;
+  color: rgb(5 37 77);
+  text-transform: capitalize;
+}
+
+.image631 {
+  position: absolute;
+  inset: 440px 1307px 320px 609px;
+  width: 14px;
+}
+
+.image643 {
+  position: absolute;
+  inset: 479px 1308px 282px 609px;
+  width: 13px;
+}
+
+.title32 {
+  position: absolute;
+  inset: 88px 807px 653px 981px;
+  display: flex;
+  align-items: center;
+  width: 142px;
+  height: 33px;
+  font: 400 32.84px/0.99 Actor, Helvetica, Arial, serif;
+  color: rgb(5 37 77);
+  text-transform: capitalize;
+  letter-spacing: -0.66px;
+}
+
+.image644 {
+  position: absolute;
+  inset: 214px 935px 547px 982px;
+  width: 13px;
+}
+
+.highlight52 {
+  position: absolute;
+  inset: 142px 761px 535px 1009px;
+  width: 160px;
+  height: 97px;
+  font: 400 15.01px/2.13 Actor, Helvetica, Arial, serif;
+  color: rgb(5 37 77);
+  text-transform: capitalize;
+}
+
+.image65 {
+  position: absolute;
+  inset: 152px 936px 609px 981px;
+  width: 13px;
+  border-radius: 6.6px;
+}
+
+.image645 {
+  position: absolute;
+  inset: 189px 936px 572px 981px;
+  width: 13px;
+}
+
+.title33 {
+  position: absolute;
+  inset: 376px 876px 365px 978px;
+  display: flex;
+  align-items: center;
+  width: 76px;
+  height: 33px;
+  font: 400 32.84px/0.99 Actor, Helvetica, Arial, serif;
+  color: rgb(5 37 77);
+  text-transform: capitalize;
+  letter-spacing: -0.66px;
+}
+
+.image66 {
+  position: absolute;
+  inset: 505px 935px 257px 978px;
+  width: 17px;
+}
+
+.highlight53 {
+  position: absolute;
+  inset: 427px 833px 250px 1014px;
+  width: 83px;
+  height: 97px;
+  font: 400 15.01px/2.13 Actor, Helvetica, Arial, serif;
+  color: rgb(5 37 77);
+  text-transform: capitalize;
+}
+
+.image67 {
+  position: absolute;
+  inset: 444px 936px 318px 977px;
+  width: 17px;
+  border-radius: 6.15px;
+}
+
+.image661 {
+  position: absolute;
+  inset: 473px 934px 289px 979px;
+  width: 17px;
+}
+
+.title34 {
+  position: absolute;
+  inset: 390.5px 366px 350.5px 1321px;
+  display: flex;
+  align-items: center;
+  width: 243px;
+  height: 33px;
+  font: 400 32.84px/0.99 Actor, Helvetica, Arial, serif;
+  color: rgb(5 37 77);
+  text-transform: capitalize;
+  letter-spacing: -0.66px;
+}
+
+.image646 {
+  position: absolute;
+  inset: 518px 598px 243px 1319px;
+  width: 13px;
+}
+
+.image647 {
+  position: absolute;
+  inset: 549px 598px 212px 1319px;
+  width: 13px;
+}
+
+.image648 {
+  position: absolute;
+  inset: 586px 596px 175px 1321px;
+  width: 13px;
+}
+
+.highlight54 {
+  position: absolute;
+  inset: 444px 418px 169px 1349px;
+  width: 163px;
+  height: 161px;
+  font: 400 15.01px/2.13 Actor, Helvetica, Arial, serif;
+  color: rgb(5 37 77);
+  text-transform: capitalize;
+}
+
+.image651 {
+  position: absolute;
+  inset: 455px 597px 306px 1320px;
+  width: 13px;
+  border-radius: 6.6px;
+}
+
+.image649 {
+  position: absolute;
+  inset: 486px 596px 275px 1321px;
+  width: 13px;
+}
+
+.title35 {
+  position: absolute;
+  inset: 101px 517px 640px 1338px;
+  display: flex;
+  align-items: center;
+  width: 75px;
+  height: 33px;
+  font: 400 32.84px/0.99 Actor, Helvetica, Arial, serif;
+  color: rgb(5 37 77);
+  text-transform: capitalize;
+  letter-spacing: -0.66px;
+}
+
+.image6410 {
+  position: absolute;
+  inset: 231px 575px 530px 1342px;
+  width: 13px;
+}
+
+.highlight6 {
+  position: absolute;
+  inset: 155px 487px 522px 1366px;
+  width: 77px;
+  height: 97px;
+  font: 400 15.01px/2.13 "Atkinson Hyperlegible", Helvetica, Arial, serif;
+  color: rgb(5 37 77);
+  text-transform: capitalize;
+}
+
+.image632 {
+  position: absolute;
+  inset: 169px 578px 591px 1338px;
+  width: 14px;
+}
+
+.image6411 {
+  position: absolute;
+  inset: 205px 579px 556px 1338px;
+  width: 13px;
+}

@@ -1,0 +1,92 @@
+@use "../utils" as *;
+@use "../global" as *;
+
+.loginSection {
+  position: relative;
+  width: 1930px;
+  height: 173px;
+  min-height: 173px;
+}
+
+.color {
+  position: absolute;
+  inset: 0 10px 0 0;
+  width: 1920px;
+  height: 173px;
+  background-color: rgb(255 255 255);
+}
+
+.color3 {
+  position: absolute;
+  inset: 57px 283px 67px 1532px;
+  width: 115px;
+  height: 49px;
+  background-color: rgb(5 37 77);
+  border-radius: 10.24px;
+}
+
+.highlight {
+  position: absolute;
+  inset: 71px 320px 80px 1569px;
+  display: flex;
+  justify-content: center;
+  width: 41px;
+  height: 22px;
+  font: 400 18.2px/1.2 Actor, Helvetica, Arial, serif;
+  color: rgb(255 255 255);
+  text-align: center;
+  letter-spacing: -0.64px;
+}
+
+.decorator2 {
+  position: absolute;
+  inset: 0 5px 153px;
+  width: 1920px;
+  height: 20px;
+}
+
+.color24 {
+  position: absolute;
+  inset: 57px 135px 67px 1680px;
+  width: 115px;
+  aspect-ratio: 2.35;
+}
+
+.highlight1 {
+  position: absolute;
+  inset: 71px 175.5px 80px 1719.5px;
+  display: flex;
+  justify-content: center;
+  width: 35px;
+  height: 22px;
+  font: 400 18.2px/1.2 Actor, Helvetica, Arial, serif;
+  color: rgb(255 255 255);
+  text-align: center;
+  letter-spacing: -0.64px;
+}
+
+.image44 {
+  position: absolute;
+  inset: 55px 1621px 65px 256px;
+  width: 53px;
+}
+
+.title2 {
+  position: absolute;
+  inset: 54px 808px 85px 755px;
+  display: flex;
+  justify-content: center;
+  width: 367px;
+  height: 34px;
+  font: 400 32px/1.03 "Abyssinica SIL", Helvetica, Arial, serif;
+  color: rgb(0 0 0);
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 16.64px;
+}
+
+.image60 {
+  position: absolute;
+  inset: 28px 1193px 82px 672px;
+  width: 65px;
+}

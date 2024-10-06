@@ -1,0 +1,23 @@
+@use "../utils" as *;
+@use "../global" as *;
+
+.heroImageSection {
+  display: flex;
+  flex-direction: column;
+}
+
+.heroImage {
+  margin: 98px auto 42px;
+  width: 1113px;
+  max-width: 85%;
+  aspect-ratio: 3.96;
+  object-fit: cover;
+
+  @include xs {
+    margin: 80px auto 42px;
+  }
+
+  @include tn {
+    margin: 50px auto 42px;
+  }
+}
