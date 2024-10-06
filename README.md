@@ -10,6 +10,9 @@ Project Recommendations: Based on the AI's analysis, students receive a list of 
 Learning Path Suggestions: The AI recommends personalized learning paths for students, identifying key areas for skill development that align with industry needs.
 AI Chatbot with Video Suggestions: The chatbot suggests videos that address student-specific learning needs and areas of interest, leveraging platforms like YouTube.
 Mentor Connections: Each student is paired with a mentor who guides them through real-world projects and skill development.
+
+
+
 2. Implementation Details
 Frontend:
    The frontend of CareerSync is built using React.js, providing a  user    friendly interface where students can:
